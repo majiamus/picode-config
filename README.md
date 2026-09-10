@@ -1,5 +1,8 @@
 # Pi Config for Coding
 
+> 参考项目：[yandy/picode](https://github.com/yandy/picode) —— 本仓库的配置组织方式参考该项目。
+> 实际维护仓库：[majiamus/picode-config](https://github.com/majiamus/picode-config)。
+
 ## 1. Setup
 
 ```sh
@@ -7,7 +10,7 @@
 npm install -g @earendil-works/pi-coding-agent
 
 # clone config
-git clone https://github.com/yandy/picode.git ~/.pi/agent-code
+git clone https://github.com/majiamus/picode-config.git ~/.pi/agent-code
 ```
 
 ### add `picode`
