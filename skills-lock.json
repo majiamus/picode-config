@@ -13,6 +13,18 @@
       "skillPath": "SKILL.md",
       "computedHash": "2d1d204d4508add50cefdb405ecfbc1920f31d2272718eadecf286e558fe178d"
     },
+    "officecli": {
+      "source": "iOfficeAI/OfficeCLI",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "3bee2d4f4364605b70e3d304b45cc1d33ca7f102159cce0d58e18a3f5ec5384a"
+    },
+    "parallel-code-review": {
+      "source": "hhetli/parallel-code-review",
+      "sourceType": "clawhub",
+      "skillPath": "SKILL.md",
+      "computedHash": "d7f000d3e9f25e0df34b24748abc81bc065182561d1bf19279e33ee74cd3f9ea"
+    },
     "pdf": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -24,12 +36,6 @@
       "sourceType": "github",
       "skillPath": "skills/playwright-cli/SKILL.md",
       "computedHash": "32cf6cf8733ae75ae41f5241347bca74459629f90bcfbd4e25540ede5d4b8f95"
-    },
-    "parallel-code-review": {
-      "source": "hhetli/parallel-code-review",
-      "sourceType": "clawhub",
-      "skillPath": "SKILL.md",
-      "computedHash": "d7f000d3e9f25e0df34b24748abc81bc065182561d1bf19279e33ee74cd3f9ea"
     },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",

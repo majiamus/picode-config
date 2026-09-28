@@ -75,6 +75,9 @@ npx skills ls -a pi
 
 ```sh
 # npx skills add anthropics/skills --skill pdf -a pi -y
+# npx skills add iOfficeAI/OfficeCLI --skill officecli -a pi -y
+# 依赖 officecli 二进制（skill 会自动调用，缺失时可手动安装）
+curl -fsSL https://d.officecli.ai/install.sh | bash
 ```
 
 - ui/ux
