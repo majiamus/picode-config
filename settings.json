@@ -11,10 +11,10 @@
     "npm:@yandy0725/pi-vision-tools",
     "npm:@yandy0725/pi-superpowers"
   ],
-  "lastChangelogVersion": "0.84.2",
+  "lastChangelogVersion": "0.85.1",
   "theme": "catppuccin-mocha",
-  "defaultProvider": "deepseek",
-  "defaultModel": "deepseek-flash",
+  "defaultProvider": "megcore",
+  "defaultModel": "qwen/qwen3.8-flash",
   "defaultThinkingLevel": "xhigh",
   "hideThinkingBlock": false
 }
