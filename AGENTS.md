@@ -10,9 +10,9 @@
 进行代码探索时，优先使用 `ast-grep` / `lsp` 相关工具，次选 `grep` / `find` / `ls`
 
 ## For Model Selection
-- cheap model: `qwen/qwen3.8-flash`
-- standard model:  `qwen/qwen3.8-flash`
-- most capable model: `qwen/qwen3.8-max`
+- cheap model: `deepseek/deepseek-flash`
+- standard model:  `deepseek/deepseek-flash`
+- most capable model: `megcore/qwen/qwen3.8-max`
 
 # 经验教训集合
 

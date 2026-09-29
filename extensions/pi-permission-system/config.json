@@ -13,7 +13,7 @@
       "*.pem": "deny",
       "*.key": "deny",
       "*credentials*": "deny",
-      "*auth*": "deny",
+      "*auth.json": "deny",
       "*secret*": "deny"
     },
 

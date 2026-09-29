@@ -2,7 +2,6 @@
 description: Fast codebase exploration agent (read-only)
 display_name: Explore
 tools: read, bash, grep, find, ls, ast_grep_search, lsp_symbols, lsp_hover, lsp_navigate
-model: deepseek/deepseek-flash
 prompt_mode: replace
 ---
 
